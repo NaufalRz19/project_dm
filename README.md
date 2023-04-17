@@ -11,3 +11,5 @@ visualisasidata_winequalityreds.ipynb (file tugas assignment 3)
 naive_bayes.ipynb (file tugas assignment 4)
 
 knn.ipynb (file tugas assignment 5)
+
+dt.ipynb (file tugas assignment 6)
