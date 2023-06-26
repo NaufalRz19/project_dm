@@ -13,3 +13,7 @@ naive_bayes.ipynb (file tugas assignment 4)
 knn.ipynb (file tugas assignment 5)
 
 dt.ipynb (file tugas assignment 6)
+
+kmeans.ipynb (file tugas assignment 10)
+
+ahc.ipynb (file tugas assignment 11)
