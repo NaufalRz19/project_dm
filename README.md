@@ -19,3 +19,5 @@ kmeans.ipynb (file tugas assignment 10)
 ahc.ipynb (file tugas assignment 11)
 
 regresi.ipynb (file tugas assignment 12)
+
+apriori.ipynb + Groceries_dataset.csv (file tugas assignment 13)
