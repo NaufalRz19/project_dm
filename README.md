@@ -17,3 +17,5 @@ dt.ipynb (file tugas assignment 6)
 kmeans.ipynb (file tugas assignment 10)
 
 ahc.ipynb (file tugas assignment 11)
+
+regresi.ipynb (file tugas assignment 12)
